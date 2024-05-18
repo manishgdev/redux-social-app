@@ -23,7 +23,9 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
     "prettier": "^3.2.1",
-    "vite": "^5.0.11"
+    "vite": "^5.0.11",
+    "@vitejs/plugin-legacy": "^5.0.0",
+    "unplugin-swc": "^1.4.4"
   },
   "msw": {
     "workerDirectory": "public"
